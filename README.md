@@ -6,6 +6,8 @@
 <p align="left">I am a Full Stack Developer</p>
 
 ###
+<img align="right" height="150" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+
 
 <h2 align="left">About me</h2>
 
@@ -73,7 +75,6 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
 
 ###
 
